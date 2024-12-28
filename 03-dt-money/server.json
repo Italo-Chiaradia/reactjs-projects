@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-10-08T12:19:57.895Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-10-08T12:19:57.895Z"
+    },
+    {
+      "description": "Viagem ",
+      "price": 2000,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2024-10-14T13:31:05.048Z",
+      "id": 3
+    },
+    {
+      "description": "Desenvolvimento de app ",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-10-14T13:32:17.885Z",
+      "id": 4
+    },
+    {
+      "description": "Mensalidade Academia",
+      "price": 150,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2024-10-14T13:36:53.153Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-10-14T13:59:09.145Z",
+      "id": 6
+    },
+    {
+      "description": "Faculdade",
+      "price": 1000,
+      "category": "Educação",
+      "type": "income",
+      "createdAt": "2024-10-14T14:01:16.835Z",
+      "id": 7
+    }
+  ]
+}
